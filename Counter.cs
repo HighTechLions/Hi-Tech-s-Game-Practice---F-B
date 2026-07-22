@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-public static class Counter
+public static class FizzBuzzCounter
 {
     public static List<int> CountToHundred()
     {
