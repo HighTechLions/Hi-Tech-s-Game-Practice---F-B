@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountingGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5d07ad5e19c89077e2ae516f8e6daf2305fba28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df3045e8a96e030644cf3c4196d0b25f161f4729")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountingGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountingGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
